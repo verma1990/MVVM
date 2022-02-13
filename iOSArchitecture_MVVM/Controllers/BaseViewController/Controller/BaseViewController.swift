@@ -1,6 +1,6 @@
 //
 //  BaseViewController.swift
-//  FantomLED
+//
 //
 //  Created by Amit Verma on 01/06/18.
 //  Copyright © 2018 Amit Verma. All rights reserved.
@@ -19,7 +19,6 @@ class BaseViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
     }
 
     override func didReceiveMemoryWarning() {

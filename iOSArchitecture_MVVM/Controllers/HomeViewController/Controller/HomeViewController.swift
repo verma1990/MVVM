@@ -1,6 +1,6 @@
 //
 //  HomeViewController.swift
-//  FantomLED
+//  
 //
 //  Created by Amit Verma on 01/06/18.
 //  Copyright © 2018 Amit Verma. All rights reserved.
@@ -19,7 +19,7 @@ class HomeViewController: BaseViewController {
     }()
     
     
-    // MARK:// Apple Life Cycle
+    // MARK:// View Controller Life Cycle
     
     override func viewDidLoad() {
         super.viewDidLoad()
