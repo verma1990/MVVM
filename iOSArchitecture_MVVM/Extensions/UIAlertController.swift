@@ -2,7 +2,7 @@
 //  UIAlertController.swift
 //
 //  Created by Amit Verma
-//  Copyright © 2018 Surjeet. All rights reserved.
+//  Copyright © 2018 Amit Verma. All rights reserved.
 //
 
 import Foundation

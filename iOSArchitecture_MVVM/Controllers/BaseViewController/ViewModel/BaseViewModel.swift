@@ -2,8 +2,8 @@
 //  BaseViewModel.swift
 //  eLock
 //
-//  Created by Surjeet on 19/01/18.
-//  Copyright © 2018 Surjeet. All rights reserved.
+//  Created by Amit Verma on 19/01/18.
+//  Copyright © 2018 Amit Verma. All rights reserved.
 //
 
 import UIKit
